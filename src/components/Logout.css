@@ -1,0 +1,28 @@
+.logout {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 750px;
+  margin-top: -450px;
+}
+
+.logout-button {
+  min-width: 300px;
+  padding: 17px 30px;
+  margin-top: 20px;
+  background-color: transparent;
+  border: 1px solid #04c35c;
+  color: #04c35c;
+  font-size: 14px;
+  border-radius: 3px;
+}
+
+.logout-button:hover{
+  background-color: #04C35C;
+  color: #fff;
+  transition: 0.3s;
+}
+
+.user-name {
+  color: #04c35c;
+}

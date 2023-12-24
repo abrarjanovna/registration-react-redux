@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.container {
+  margin: 5px;
+  height: 716.5px;
+  border: 1px solid #000;
+}
+
+.image {
+  width: 720px;
+  height: 715px;
+}
